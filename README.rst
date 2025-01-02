@@ -79,5 +79,3 @@ Donations
 If you appreciate my efforts related to this project, give me a gift. I'll be glad to get some money working for free ;)
 To make a donation - please press the button below.
 
-.. image:: https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png
-    :target: https://www.paypal.me/pavelliavonau
