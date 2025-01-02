@@ -76,6 +76,5 @@ Issues in the project repository are the common way to raise an information.
 Donations
 --------------------------
 
-If you appreciate my efforts related to this project, give me a gift. I'll be glad to get some money working for free ;)
-To make a donation - please press the button below.
+https://github.com/sajinsalim333/cmakeconverter/tree/develop/cmake_converter
 
